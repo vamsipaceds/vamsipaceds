@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vamsipaceds
+- 👋 Hi, I’m @vamsi krishna logisa
 - 👀 I’m interested in datascience
 - 🌱 I’m currently doing masters in ds
 - 💞️ I’m looking to collaborate on data analysis projects
